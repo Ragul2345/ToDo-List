@@ -1,11 +1,29 @@
-ToDo-List:
-              This is a simple and clean To-Do List web app built using HTML, CSS and JavaScript.
-              It lets users add and delete tasks easily through an interactive design that works right in the browser.
-              This project is perfect for beginners to learn the basics of web development.
+## 📝 To-Do List – Web App
 
+* A simple and clean To-Do List web application built using HTML, CSS and JavaScript.
+* This app allows users to easily add and delete tasks through a minimal and user-friendly interface directly in the browser.
+* It is a beginner-friendly project to understand basic web development concepts and DOM manipulation.
 
-How to Use?
-            1. Copy the code into a file and save it as (filename.html).
-            2. Open the file in any web browser.
-            3. Type your task in the input box and click "Add".
-            4. Click "Delete" to remove a task when it's done.           
+## 🛠️ Tech Used
+
+* HTML
+* CSS
+* JavaScript
+
+## ⚙️ Features
+
+* Add new tasks instantly
+* Delete tasks easily
+* Clean and responsive UI
+* Runs completely in the browser
+
+## ▶️ How to Run
+
+* Copy the code and save it as todo.html (or any .html filename).
+* Open the file in any web browser.
+* Enter a task and click Add.
+* Click Delete to remove a task.
+
+## 🖥️ Usage
+
+Type your task in the input box, click Add to include it in the list and press Delete when the task is completed.
